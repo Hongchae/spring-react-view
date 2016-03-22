@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+.box {
+    border: 2px solid #666;
+    background-color: aquamarine;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    font-size:30px;
+    line-height: 300px;
+}

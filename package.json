@@ -1,0 +1,11 @@
+{
+  "name": "spring-react-view",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "./node_modules/.bin/babel ./src/main/resources/templates -d ./src/main/resources/transformed"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-preset-react": "^6.5.0"
+  }
+}
